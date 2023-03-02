@@ -16,5 +16,5 @@ Side observations:
 Satisfiable and finds an assignmenet where each Pigeon is in 
 one nest.
 - My personal computer can hold up to n = 13, for which it 
-needs 3 minutes and 40 seconds, however, n = 5 is solved in 
+needs 3 minutes and 40 seconds. For n = 14, after 50 minutes, the program was killed. However, up to n = 7 it is solved in 
 0.01 seconds.
